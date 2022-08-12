@@ -1,0 +1,1 @@
+C:\Proys\PinMapa\PinMapa.csproj;x64
